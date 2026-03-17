@@ -1,0 +1,2566 @@
+[
+  {
+    "path": ".claude/settings.local.json",
+    "fileName": "settings.local.json",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 17,
+          "updatedAt": "2026-03-23T15:00:41Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 17,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": ".gitignore",
+    "fileName": ".gitignore",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 1,
+          "updatedAt": "2026-04-10T15:28:57Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 2,
+          "endLine": 3,
+          "updatedAt": "2026-03-23T15:00:47Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 3,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "ARCHITECTURE.md",
+    "fileName": "ARCHITECTURE.md",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 16,
+          "updatedAt": "2026-03-24T13:20:57Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 16,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "LICENSE",
+    "fileName": "LICENSE",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 22,
+          "updatedAt": "2026-03-23T15:00:52Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 22,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "PLAN.md",
+    "fileName": "PLAN.md",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 55,
+          "updatedAt": "2026-03-23T15:00:56Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 55,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "README.md",
+    "fileName": "README.md",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 18,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 19,
+          "endLine": 19,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 20,
+          "endLine": 27,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 28,
+          "endLine": 29,
+          "updatedAt": "2026-04-10T15:28:57Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 30,
+          "endLine": 30,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 31,
+          "endLine": 31,
+          "updatedAt": "2026-04-10T15:28:57Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 32,
+          "endLine": 35,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 36,
+          "endLine": 52,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 53,
+          "endLine": 57,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 58,
+          "endLine": 58,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 59,
+          "endLine": 83,
+          "updatedAt": "2026-03-23T15:01:07Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 69,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "build.sh",
+    "fileName": "build.sh",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 2,
+          "updatedAt": "2026-04-10T15:28:57Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 3,
+          "endLine": 3,
+          "updatedAt": "2026-03-23T15:01:25Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 3,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "cmd/gifgen/go.mod",
+    "fileName": "go.mod",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 6,
+          "updatedAt": "2026-03-23T15:10:45Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 6,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "cmd/gifgen/go.sum",
+    "fileName": "go.sum",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 3,
+          "updatedAt": "2026-03-24T13:33:03Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 3,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "cmd/gifgen/main.go",
+    "fileName": "main.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 34,
+          "updatedAt": "2026-03-23T15:10:55Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 35,
+          "endLine": 127,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 127,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "demo.tape",
+    "fileName": "demo.tape",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 63,
+          "updatedAt": "2026-03-23T15:01:18Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 63,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "go.mod",
+    "fileName": "go.mod",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 1,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 2,
+          "endLine": 8,
+          "updatedAt": "2026-04-10T10:14:45Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 9,
+          "endLine": 9,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 10,
+          "endLine": 31,
+          "updatedAt": "2026-04-10T10:14:45Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 30,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "go.sum",
+    "fileName": "go.sum",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 34,
+          "updatedAt": "2026-03-24T13:32:46Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 35,
+          "endLine": 36,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 37,
+          "endLine": 65,
+          "updatedAt": "2026-03-24T13:32:46Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 63,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "loc.sh",
+    "fileName": "loc.sh",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 3,
+          "updatedAt": "2026-04-10T14:44:10Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 3,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "main.go",
+    "fileName": "main.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 3,
+          "updatedAt": "2026-04-10T10:35:20Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 4,
+          "endLine": 4,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 5,
+          "endLine": 5,
+          "updatedAt": "2026-04-10T10:35:20Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 6,
+          "endLine": 6,
+          "updatedAt": "2026-04-10T10:35:39Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 7,
+          "endLine": 7,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 8,
+          "endLine": 10,
+          "updatedAt": "2026-04-10T10:35:39Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 11,
+          "endLine": 14,
+          "updatedAt": "2026-04-10T10:35:20Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 15,
+          "endLine": 15,
+          "updatedAt": "2026-04-10T10:35:29Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 16,
+          "endLine": 23,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 24,
+          "endLine": 33,
+          "updatedAt": "2026-04-10T10:35:29Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 34,
+          "endLine": 34,
+          "updatedAt": "2026-04-10T10:35:20Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 35,
+          "endLine": 61,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 62,
+          "endLine": 62,
+          "updatedAt": "2026-04-10T10:35:20Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 28,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "marks.go",
+    "fileName": "marks.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 152,
+          "updatedAt": "2026-04-10T10:25:01Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 153,
+          "endLine": 169,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 170,
+          "endLine": 175,
+          "updatedAt": "2026-04-10T10:25:01Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 176,
+          "endLine": 176,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 177,
+          "endLine": 272,
+          "updatedAt": "2026-04-10T10:25:01Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 273,
+          "endLine": 304,
+          "updatedAt": "2026-04-10T10:25:09Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 305,
+          "endLine": 510,
+          "updatedAt": "2026-04-10T10:25:01Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 511,
+          "endLine": 538,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 539,
+          "endLine": 583,
+          "updatedAt": "2026-04-10T10:25:01Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 583,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "marks_examples.md",
+    "fileName": "marks_examples.md",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 127,
+          "updatedAt": "2026-04-10T10:11:56Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 128,
+          "endLine": 146,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 146,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "marks_io.go",
+    "fileName": "marks_io.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 44,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 45,
+          "endLine": 48,
+          "updatedAt": "2026-03-22T14:53:22Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 49,
+          "endLine": 50,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 51,
+          "endLine": 97,
+          "updatedAt": "2026-03-22T14:53:22Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 98,
+          "endLine": 166,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 167,
+          "endLine": 170,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 171,
+          "endLine": 172,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 173,
+          "endLine": 180,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 181,
+          "endLine": 183,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 184,
+          "endLine": 187,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 188,
+          "endLine": 235,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 236,
+          "endLine": 239,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 240,
+          "endLine": 256,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 257,
+          "endLine": 257,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 258,
+          "endLine": 258,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 259,
+          "endLine": 259,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 260,
+          "endLine": 267,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 268,
+          "endLine": 268,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 269,
+          "endLine": 279,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 272,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "marks_io_test.go",
+    "fileName": "marks_io_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 2,
+          "updatedAt": "2026-04-10T15:07:09Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 2,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "marks_test.go",
+    "fileName": "marks_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 2,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 3,
+          "endLine": 12,
+          "updatedAt": "2026-04-10T07:58:38Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 13,
+          "endLine": 546,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 546,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "model.go",
+    "fileName": "model.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 3,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 4,
+          "endLine": 5,
+          "updatedAt": "2026-04-10T10:58:10Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 6,
+          "endLine": 6,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 7,
+          "endLine": 7,
+          "updatedAt": "2026-04-10T14:57:24Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 8,
+          "endLine": 8,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 9,
+          "endLine": 10,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 11,
+          "endLine": 15,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 16,
+          "endLine": 16,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 17,
+          "endLine": 24,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 25,
+          "endLine": 26,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 27,
+          "endLine": 35,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 36,
+          "endLine": 43,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 44,
+          "endLine": 73,
+          "updatedAt": "2026-03-23T15:17:02Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 74,
+          "endLine": 83,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 84,
+          "endLine": 84,
+          "updatedAt": "2026-03-24T13:43:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 85,
+          "endLine": 89,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 90,
+          "endLine": 99,
+          "updatedAt": "2026-03-24T13:43:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 100,
+          "endLine": 104,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 105,
+          "endLine": 121,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 122,
+          "endLine": 122,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 123,
+          "endLine": 127,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 128,
+          "endLine": 128,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 129,
+          "endLine": 129,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 130,
+          "endLine": 130,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 131,
+          "endLine": 132,
+          "updatedAt": "2026-04-10T15:03:54Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 133,
+          "endLine": 136,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 137,
+          "endLine": 156,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 157,
+          "endLine": 174,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 175,
+          "endLine": 183,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 184,
+          "endLine": 184,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 185,
+          "endLine": 185,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 186,
+          "endLine": 187,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 188,
+          "endLine": 191,
+          "updatedAt": "2026-04-10T14:47:28Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 192,
+          "endLine": 192,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 193,
+          "endLine": 193,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 194,
+          "endLine": 196,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 197,
+          "endLine": 204,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 205,
+          "endLine": 205,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 206,
+          "endLine": 244,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 245,
+          "endLine": 248,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 249,
+          "endLine": 254,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 255,
+          "endLine": 255,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 256,
+          "endLine": 256,
+          "updatedAt": "2026-04-11T04:49:26Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 257,
+          "endLine": 259,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 260,
+          "endLine": 262,
+          "updatedAt": "2026-04-11T04:49:26Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 263,
+          "endLine": 265,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 266,
+          "endLine": 311,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 312,
+          "endLine": 312,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 313,
+          "endLine": 315,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 316,
+          "endLine": 316,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 317,
+          "endLine": 362,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 363,
+          "endLine": 363,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 364,
+          "endLine": 364,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 365,
+          "endLine": 365,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 366,
+          "endLine": 371,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 372,
+          "endLine": 374,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 375,
+          "endLine": 377,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 378,
+          "endLine": 396,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 397,
+          "endLine": 399,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 400,
+          "endLine": 410,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 411,
+          "endLine": 411,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 412,
+          "endLine": 412,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 413,
+          "endLine": 443,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 444,
+          "endLine": 463,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 464,
+          "endLine": 478,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 479,
+          "endLine": 479,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 480,
+          "endLine": 534,
+          "updatedAt": "2026-04-10T10:59:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 535,
+          "endLine": 540,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 541,
+          "endLine": 552,
+          "updatedAt": "2026-04-10T14:57:24Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 553,
+          "endLine": 563,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 564,
+          "endLine": 580,
+          "updatedAt": "2026-04-10T14:26:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 581,
+          "endLine": 584,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 585,
+          "endLine": 585,
+          "updatedAt": "2026-04-09T18:41:22Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 586,
+          "endLine": 586,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 587,
+          "endLine": 587,
+          "updatedAt": "2026-04-09T18:41:22Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 588,
+          "endLine": 590,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 591,
+          "endLine": 596,
+          "updatedAt": "2026-04-10T14:26:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 597,
+          "endLine": 597,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 598,
+          "endLine": 605,
+          "updatedAt": "2026-04-10T14:26:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 606,
+          "endLine": 606,
+          "updatedAt": "2026-03-23T15:16:59Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 607,
+          "endLine": 645,
+          "updatedAt": "2026-04-10T10:58:10Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 649,
+          "endLine": 661,
+          "updatedAt": "2026-04-10T15:01:22Z",
+          "state": "changed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 224,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "model_test.go",
+    "fileName": "model_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 111,
+          "updatedAt": "2026-04-10T14:57:55Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 111,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "pane_file.go",
+    "fileName": "pane_file.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 13,
+          "updatedAt": "2026-04-10T14:44:45Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 14,
+          "endLine": 14,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 15,
+          "endLine": 30,
+          "updatedAt": "2026-04-10T14:44:45Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 31,
+          "endLine": 31,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 32,
+          "endLine": 71,
+          "updatedAt": "2026-04-10T14:44:45Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 72,
+          "endLine": 85,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 86,
+          "endLine": 87,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 88,
+          "endLine": 89,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 90,
+          "endLine": 93,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 94,
+          "endLine": 94,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 95,
+          "endLine": 97,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 98,
+          "endLine": 98,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 99,
+          "endLine": 99,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 100,
+          "endLine": 101,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 102,
+          "endLine": 104,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 105,
+          "endLine": 106,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 107,
+          "endLine": 113,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 114,
+          "endLine": 114,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 115,
+          "endLine": 130,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 131,
+          "endLine": 131,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 132,
+          "endLine": 134,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 135,
+          "endLine": 136,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 137,
+          "endLine": 139,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 140,
+          "endLine": 141,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 142,
+          "endLine": 144,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 145,
+          "endLine": 145,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 146,
+          "endLine": 147,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 148,
+          "endLine": 149,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 150,
+          "endLine": 151,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 152,
+          "endLine": 153,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 154,
+          "endLine": 155,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 156,
+          "endLine": 157,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 158,
+          "endLine": 159,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 160,
+          "endLine": 161,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 162,
+          "endLine": 163,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 164,
+          "endLine": 165,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 166,
+          "endLine": 167,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 168,
+          "endLine": 169,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 170,
+          "endLine": 189,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 190,
+          "endLine": 190,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 191,
+          "endLine": 191,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 192,
+          "endLine": 193,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 194,
+          "endLine": 197,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 198,
+          "endLine": 198,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 199,
+          "endLine": 202,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 203,
+          "endLine": 203,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 204,
+          "endLine": 206,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 207,
+          "endLine": 207,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 208,
+          "endLine": 209,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 210,
+          "endLine": 212,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 213,
+          "endLine": 270,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 271,
+          "endLine": 271,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 272,
+          "endLine": 272,
+          "updatedAt": "2026-04-10T15:09:57Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 273,
+          "endLine": 277,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 278,
+          "endLine": 280,
+          "updatedAt": "2026-03-24T13:43:34Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 281,
+          "endLine": 292,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 293,
+          "endLine": 295,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 296,
+          "endLine": 301,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 302,
+          "endLine": 302,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 303,
+          "endLine": 325,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 326,
+          "endLine": 334,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 335,
+          "endLine": 336,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 337,
+          "endLine": 343,
+          "updatedAt": "2026-04-10T16:55:45Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 344,
+          "endLine": 347,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 348,
+          "endLine": 348,
+          "updatedAt": "2026-04-10T16:55:45Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 349,
+          "endLine": 353,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 354,
+          "endLine": 358,
+          "updatedAt": "2026-04-09T19:03:21Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 359,
+          "endLine": 365,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 366,
+          "endLine": 366,
+          "updatedAt": "2026-04-09T18:22:09Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 367,
+          "endLine": 367,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 368,
+          "endLine": 368,
+          "updatedAt": "2026-04-09T18:22:09Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 369,
+          "endLine": 372,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 293,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "pane_file_test.go",
+    "fileName": "pane_file_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 66,
+          "updatedAt": "2026-04-10T15:33:04Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 67,
+          "endLine": 342,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 343,
+          "endLine": 344,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 345,
+          "endLine": 349,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 350,
+          "endLine": 351,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 352,
+          "endLine": 352,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 353,
+          "endLine": 359,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 360,
+          "endLine": 364,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 365,
+          "endLine": 366,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 367,
+          "endLine": 367,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 368,
+          "endLine": 374,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 375,
+          "endLine": 379,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 380,
+          "endLine": 381,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 382,
+          "endLine": 382,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 383,
+          "endLine": 389,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 390,
+          "endLine": 395,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 396,
+          "endLine": 397,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 398,
+          "endLine": 398,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 399,
+          "endLine": 405,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 406,
+          "endLine": 411,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 412,
+          "endLine": 413,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 414,
+          "endLine": 414,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 415,
+          "endLine": 421,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 422,
+          "endLine": 425,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 426,
+          "endLine": 427,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 428,
+          "endLine": 428,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 429,
+          "endLine": 437,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 438,
+          "endLine": 441,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 442,
+          "endLine": 447,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 448,
+          "endLine": 448,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 449,
+          "endLine": 455,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 456,
+          "endLine": 460,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 461,
+          "endLine": 463,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 464,
+          "endLine": 464,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 465,
+          "endLine": 471,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 472,
+          "endLine": 476,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 477,
+          "endLine": 479,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 480,
+          "endLine": 480,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 481,
+          "endLine": 485,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 159,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "pane_files.go",
+    "fileName": "pane_files.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 86,
+          "updatedAt": "2026-04-10T15:10:18Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 87,
+          "endLine": 92,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 93,
+          "endLine": 118,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 119,
+          "endLine": 123,
+          "updatedAt": "2026-04-09T19:01:42Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 124,
+          "endLine": 126,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 127,
+          "endLine": 129,
+          "updatedAt": "2026-04-09T19:01:42Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 130,
+          "endLine": 132,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 133,
+          "endLine": 133,
+          "updatedAt": "2026-04-09T18:39:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 134,
+          "endLine": 148,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 149,
+          "endLine": 149,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 150,
+          "endLine": 151,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 119,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "pane_files_test.go",
+    "fileName": "pane_files_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 15,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 16,
+          "endLine": 16,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 17,
+          "endLine": 29,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 30,
+          "endLine": 30,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 31,
+          "endLine": 35,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 36,
+          "endLine": 36,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 37,
+          "endLine": 38,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 39,
+          "endLine": 39,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 40,
+          "endLine": 41,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 42,
+          "endLine": 42,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 43,
+          "endLine": 44,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 45,
+          "endLine": 45,
+          "updatedAt": "2026-04-10T10:32:16Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 46,
+          "endLine": 48,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 49,
+          "endLine": 51,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 52,
+          "endLine": 67,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 68,
+          "endLine": 68,
+          "updatedAt": "2026-04-10T14:34:44Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 69,
+          "endLine": 78,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 78,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "styles.go",
+    "fileName": "styles.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 7,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 8,
+          "endLine": 14,
+          "updatedAt": "2026-04-10T14:40:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 15,
+          "endLine": 17,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 18,
+          "endLine": 18,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 19,
+          "endLine": 20,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 21,
+          "endLine": 21,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 22,
+          "endLine": 24,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 25,
+          "endLine": 26,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 27,
+          "endLine": 28,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 29,
+          "endLine": 29,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 30,
+          "endLine": 31,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 32,
+          "endLine": 32,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 33,
+          "endLine": 35,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 36,
+          "endLine": 36,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 37,
+          "endLine": 39,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 40,
+          "endLine": 40,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 41,
+          "endLine": 42,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 43,
+          "endLine": 43,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 44,
+          "endLine": 44,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 45,
+          "endLine": 47,
+          "updatedAt": "2026-04-09T19:03:21Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 48,
+          "endLine": 48,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 49,
+          "endLine": 49,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 50,
+          "endLine": 51,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 52,
+          "endLine": 52,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 53,
+          "endLine": 54,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 55,
+          "endLine": 55,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 56,
+          "endLine": 57,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 58,
+          "endLine": 58,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 59,
+          "endLine": 60,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 61,
+          "endLine": 61,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 62,
+          "endLine": 63,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 64,
+          "endLine": 64,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 65,
+          "endLine": 66,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 67,
+          "endLine": 67,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 68,
+          "endLine": 69,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 70,
+          "endLine": 88,
+          "updatedAt": "2026-04-09T18:50:40Z",
+          "state": "changed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 64,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "utils.go",
+    "fileName": "utils.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 6,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 7,
+          "endLine": 7,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 8,
+          "endLine": 27,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 28,
+          "endLine": 31,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 32,
+          "endLine": 78,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 79,
+          "endLine": 99,
+          "updatedAt": "2026-04-09T17:41:36Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 100,
+          "endLine": 109,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 110,
+          "endLine": 114,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 115,
+          "endLine": 149,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 150,
+          "endLine": 150,
+          "updatedAt": "2026-04-10T16:49:46Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 151,
+          "endLine": 183,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 158,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "utils_test.go",
+    "fileName": "utils_test.go",
+    "commit": "b55b8f9",
+    "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 18,
+          "updatedAt": "2026-04-10T16:54:08Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 19,
+          "endLine": 29,
+          "updatedAt": "2026-03-22T13:58:21Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 29,
+        "importance": "medium"
+      }
+    ]
+  }
+]
